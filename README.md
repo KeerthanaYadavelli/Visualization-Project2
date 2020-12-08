@@ -1,2 +1,2 @@
-# Visualization-Project2
+# VisualizationProject2
 Austin Weather Analytics Dashboard
